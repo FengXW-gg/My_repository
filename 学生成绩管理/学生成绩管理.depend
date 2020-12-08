@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594302277 source:d:\实验\学生成绩管理\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<conio.h>
+	<iomanip>
+
